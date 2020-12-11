@@ -1,10 +1,10 @@
 # HXL Proxy Transformation Pattern Library
 
 
-## Formatting Columns
+## Formatting
 
 
-### Format column to 1 decimal point
+### Format number to 1 decimal point
 
 Filter: Clean Data
 
