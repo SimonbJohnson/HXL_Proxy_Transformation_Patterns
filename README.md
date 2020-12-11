@@ -7,6 +7,7 @@
 ### Format column to 1 decimal point
 
 Filter: Clean Data
+
 Parameters:
 - Standardise numbers for these hashtags = #hxltag
 - Format for cleaned numbers (optional) = 0.1f
@@ -17,6 +18,7 @@ Example: https://proxy.hxlstandard.org/data/edit?dest=data_edit&filter01=clean&f
 ### Format a decimal as a percent
 
 Filter: Add Column
+
 Parameters:
 - Fixed value for new column = {{#hxltag *100}}%
 
