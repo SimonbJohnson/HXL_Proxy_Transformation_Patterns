@@ -1,4 +1,4 @@
-# HXL_Proxy_Transformation_Patterns
+# HXL Proxy Transformation Pattern Library
 
 
 ## Formatting Columns
