@@ -1,5 +1,19 @@
 # HXL Proxy Transformation Pattern Library
 
+## Filtering
+
+### Filter for latest date
+
+Filter: Select Rows
+
+Notes: Make sure data is formatted to YYYY-MM-DD
+
+Parameters:
+- Queries = `#date+year is max`
+
+## Calculated Columns
+
+### Extract just year from date
 
 ## Formatting
 
