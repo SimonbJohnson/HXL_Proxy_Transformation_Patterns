@@ -11,12 +11,17 @@ Notes: Make sure data is formatted to YYYY-MM-DD
 Parameters:
 - Queries = `#date+year is max`
 
+---
+---
+
 ## Calculated Columns
 
 ### Extract just year from date
 
-## Formatting
+---
+---
 
+## Formatting
 
 ### Format number to 1 decimal point
 
