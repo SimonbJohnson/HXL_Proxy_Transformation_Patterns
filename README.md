@@ -63,9 +63,10 @@ Notes: Date is now filtered to previous day
 
 Filter: Merge from another datasets
 
-URL of merge dataset (pull extra data from here) = `url of dataset2`
-Shared keys (values that are the same in both datasets) = `#hxltag`
-Tags to copy from other dataset = `#hxltag`
+Parameters
+- URL of merge dataset (pull extra data from here) = `url of dataset2`
+- Shared keys (values that are the same in both datasets) = `#hxltag`
+- Tags to copy from other dataset = `#hxltag`
 
 Filter: Add column
 
