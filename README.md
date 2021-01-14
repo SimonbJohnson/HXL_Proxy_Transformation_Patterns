@@ -11,6 +11,8 @@ Notes: Make sure data is formatted to YYYY-MM-DD
 Parameters:
 - Queries = `#date+year is max`
 
+Example: https://proxy.hxlstandard.org/data/edit?dest=data_edit&filter01=explode&filter-label01=Pivot+admin+columns+to+values+in+single+column&explode-header-att01=header&explode-value-att01=value&filter02=rename&filter-label02=Rename+column+header&rename-oldtag02=%23affected%2Bactive_cases%2Bheader&rename-newtag02=%23adm1%2Bname&rename-header02=admin1&filter03=rename&filter-label03=Rename+column+header&rename-oldtag03=%23affected%2Bactive_cases%2Bvalue&rename-newtag03=%23affected%2Bactive_cases&rename-header03=Active+cases&filter04=select&filter-label04=Filter+data+to+latest+date+only&select-query04-01=%23date+is+max&tagger-match-all=on&tagger-default-tag=%23affected%2Bactive_cases%2Blabel&tagger-01-header=kasus+aktif&tagger-01-tag=%23date&header-row=1&url=https%3A%2F%2Fdrive.google.com%2Fu%2F2%2Fuc%3Fid%3D11wED0XH5p8OwU36qd92PqfBVacpi-EEW%26export%3Ddownload&sheet=2
+
 ---
 ---
 
